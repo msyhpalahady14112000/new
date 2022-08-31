@@ -14,6 +14,8 @@ def divide(x, y):
 print("Pilih Operasi.")
 print("1.Jumlah")
 print("2.Kurang")
+
+
 print("3.Kali")
 print("4.Bagi")
 # Meminta input dari user
